@@ -1,0 +1,4 @@
+[submodule "documentations"]
+	path = documentations
+	url = git@github.com:omarelshopky/SecOTA-documentations.git
+	branch = main
